@@ -1,0 +1,22 @@
+{
+  "name": "qa-automation-playright-biosafeapp",
+  "version": "1.0.0",
+  "description": "Practica QA aumation de la aplicacion biosafeapp",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonaldPG007/QA-automation-playright-biosafeapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonaldPG007/QA-automation-playright-biosafeapp/issues"
+  },
+  "homepage": "https://github.com/RonaldPG007/QA-automation-playright-biosafeapp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
