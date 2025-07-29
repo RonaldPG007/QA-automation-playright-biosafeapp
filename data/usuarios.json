@@ -1,0 +1,11 @@
+{
+    "usuarios":  {
+        "correcto": {
+            "nombre": "Juan",
+            "password": "Abc123+",
+            "email": "agush7550@gmail.com",
+            "confirmarPassword": "Abc123+"
+        }
+    }
+       
+}
