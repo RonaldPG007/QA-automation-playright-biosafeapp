@@ -17,6 +17,13 @@
   "homepage": "https://github.com/RonaldPG007/QA-automation-playright-biosafeapp#readme",
   "devDependencies": {
     "@playwright/test": "^1.54.1",
-    "@types/node": "^24.1.0"
+    "@types/node": "^24.1.0",
+    "tsx": "^4.20.3"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "googleapis": "^154.0.0",
+    "path": "^0.12.7",
+    "readline": "^1.3.0"
   }
 }
